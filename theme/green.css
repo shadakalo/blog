@@ -1,0 +1,128 @@
+.headersection {
+	  background: #0a420a  none repeat scroll 0 0;
+	  color: #fff;
+	}
+
+	.icon a {
+	  background: #022102 none repeat scroll 0 0;
+	}
+	.searchbtn input[type="text"] {
+		  background: #ccffcc none repeat scroll 0 0 ;
+		  border: 1px solid #022102;
+		}
+	.searchbtn input[type="submit"] {
+	  border: 1px solid #022102;
+	}
+	input[type="submit"] {
+	  background: #003600 none repeat scroll 0 0;
+	}
+	.searchbtn input[type="submit"]:hover{
+	background: #015201 none repeat scroll 0 0;
+	border: 1px solid #022102;
+	color:#fff;
+   }
+   .navsection {
+	  background: #008000 none repeat scroll 0 0;
+	  
+ }
+ .navsection ul li {
+  border-right: 1px solid #0c460c;
+  
+}
+.navsection ul li {
+  border-left: 1px solid #0c460c;
+  display: block;
+  float: left;
+  position: relative;
+}
+.contentsection {
+  border: 1px solid #0a420a;
+  padding: 15px;
+}
+.maincontent {
+  background: #ccffcc none repeat scroll 0 0;
+  border: 1px solid #62ae62;
+}
+.samepost h2 a {
+  color: #0a420a;
+  
+}
+.samepost img {
+
+  border: 1px solid #1c6818;
+
+}
+.readmore a {
+  border: 1px solid #0a420a;
+  color: #0a420a;
+
+}
+.pagination a {
+  background-color: #349734;
+  border: 1px solid #0a420a;
+  color: #fff;
+}
+.pagination a:hover{
+  background-color: #015201;
+  color: #fff;
+}
+.sidebar {
+  background: #ccffcc none repeat scroll 0 0;
+  border: 1px solid #62ae62;
+
+}
+.samesidebar h2 {
+  background: #349734 none repeat scroll 0 0;
+  border-bottom: 2px solid #0a420a;
+  color: #fff;
+  
+}
+.samesidebar ul li {
+  border-bottom: 1px dashed #349734;
+  
+}
+.samesidebar ul li a {
+  color: #0a420a;
+
+}
+.popular h3 {
+  border-bottom: 1px dashed #349734;
+  
+}
+.popular img {
+  border: 1px solid #1c6818;
+}
+.readmore a:hover {
+  color: #4caf4c;
+}
+.footersection {
+  background: #0a420a none repeat scroll 0 0;
+}
+.footermenu ul li a {
+  color: #349734;
+}
+
+.samepost h2, .about h2 {
+  border-bottom: 2px solid #85bd85;
+  color: #0a420a;
+  
+}
+input[type="submit"] {
+  background: #004500 none repeat scroll 0 0;
+}
+input[type="submit"] {
+  border: 1px solid #0a420a;
+}	
+input[type="submit"]:hover  {
+  background: #349734 none repeat scroll 0 0;
+}
+.about img {
+  border: 1px solid #1c6818;
+  
+}
+.relatedpost h2 {
+  background: green;
+  border-bottom: 2px solid #0A420A !important ;
+  color: #fff !important;
+ 
+}

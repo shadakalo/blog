@@ -1,0 +1,126 @@
+.headersection {
+	  background: #ff0000  none repeat scroll 0 0;
+	  color: #fff;
+	}
+
+	.icon a {
+	  background: #800000 none repeat scroll 0 0;
+	}
+	.searchbtn input[type="text"] {
+		  background: #ffb3b3 none repeat scroll 0 0;
+		  border: 1px solid #800000;
+		}
+	.searchbtn input[type="submit"] {
+	  border: 1px solid #022102;
+	}
+	.searchbtn input[type="submit"]:hover{
+	background: #015201 none repeat scroll 0 0;
+	border: 1px solid #022102;
+	color:#fff;
+   }
+   .navsection {
+	  background: #ff3333 none repeat scroll 0 0;
+	  
+ }
+ .navsection ul li {
+  border-right: 1px solid #800000;
+  
+}
+.navsection ul li {
+  border-left: 1px solid #800000;
+  display: block;
+  float: left;
+  position: relative;
+}
+.contentsection {
+  border: 1px solid #990000;
+  padding: 15px;
+}
+.maincontent {
+  background: #ffe6e6 none repeat scroll 0 0;
+  border: 1px solid #ff4d4d;
+}
+.samepost h2 a {
+  color: #cc0000;
+  
+}
+.samepost img {
+
+  border: 1px solid #b30000;
+
+}
+.readmore a {
+  border: 1px solid #b30000;
+  color: #b30000;
+
+}
+.pagination a {
+  background-color: #ff3333 !important;
+  border: 1px solid #800000;
+  color: #fff;
+}
+.pagination a:hover{
+  background-color: #e60000 !important;
+  color: #fff;
+}
+.sidebar {
+  background: #ffe6e6 none repeat scroll 0 0;
+  border: 1px solid #ff4d4d;
+
+}
+.samesidebar h2 {
+  background: #ff3333 none repeat scroll 0 0;
+  border-bottom: 2px solid #800000;
+  color: #fff;
+  
+}
+.samesidebar ul li {
+  border-bottom: 1px dashed #ffcccc;
+  
+}
+.samesidebar ul li a {
+  color: #cc0000;
+
+}
+.popular h3 {
+  border-bottom: 1px dashed #ffcccc;
+  
+}
+.popular img {
+  border: 1px solid #b30000;
+}
+.readmore a:hover {
+  color: #ff3333;
+}
+.footersection {
+  background: #ff0000 none repeat scroll 0 0;
+}
+.footermenu ul li a {
+  color: #ff9999;
+}
+
+.samepost h2, .about h2 {
+  border-bottom: 2px solid #ff8080;
+  color: #cc0000;
+  
+}
+input[type="submit"] {
+  background: #cc0000 none repeat scroll 0 0;
+}
+input[type="submit"] {
+  border: 1px solid #800000 !important;
+}	
+input[type="submit"]:hover  {
+  background: #800000 none repeat scroll 0 0 !important;
+  color: #fff;
+}
+.about img {
+  border: 1px solid #b30000;
+  
+}
+.relatedpost h2 {
+  background: #ff4d4d;
+  border-bottom: 2px solid #800000 !important ;
+  color: #fff !important;
+ 
+}
